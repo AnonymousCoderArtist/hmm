@@ -1,0 +1,6 @@
+{
+  "name": "PushUp Reel",
+  "description": "AI push-up counter & Instagram Reels editor for daily fitness challenges with customizable overlays and video export. Made by Lokesh Artist Coder for Naren.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
